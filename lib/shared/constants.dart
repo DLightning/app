@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+// ignore: implementation_imports
 import 'package:flutter/src/material/colors.dart';
 
 const textInputDecoration = InputDecoration(
